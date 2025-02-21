@@ -82,7 +82,9 @@ To get started with Nix and Home Manager, you will need to install them and set 
 
 Once you have created your configuration file, you can apply it using Home Manager to set up your environment according to the defined configurations.
 
-`home-manager switch`
+```sh
+home-manager switch
+```
 
 ## Useful Aliases
 
